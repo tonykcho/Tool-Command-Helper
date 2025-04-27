@@ -89,9 +89,10 @@
 
 ## Monitoring & Telemetry
 1. OpenTelemetry
-2. Grafana 
-3. ELK Stack
-4. Prometheus
+2. Grafana (For data virtualization)
+3. Prometheus (For metrics)
+4. Jaeger (For tracing)
+5. Grafana Loki (For logging)
 
 ## Container
 1. Docker
